@@ -1,0 +1,7 @@
+C:\Users\lkarri\source\repos\cosmosdblearning\az204learn\obj\Release\net6.0\PubTmp\Out\az204learn.exe
+C:\Users\lkarri\source\repos\cosmosdblearning\az204learn\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\lkarri\source\repos\cosmosdblearning\az204learn\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\lkarri\source\repos\cosmosdblearning\az204learn\obj\Release\net6.0\PubTmp\Out\az204learn.dll
+C:\Users\lkarri\source\repos\cosmosdblearning\az204learn\obj\Release\net6.0\PubTmp\Out\az204learn.deps.json
+C:\Users\lkarri\source\repos\cosmosdblearning\az204learn\obj\Release\net6.0\PubTmp\Out\az204learn.runtimeconfig.json
+C:\Users\lkarri\source\repos\cosmosdblearning\az204learn\obj\Release\net6.0\PubTmp\Out\az204learn.pdb
